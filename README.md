@@ -1,2 +1,16 @@
-# Simple-shop-calculator
-A Python program that calculates the total price of three items and optionally applies a discount. Built to practice arithmetic operations and conditional statements
+# Project Name
+simple-shop-calculator
+
+## Description
+This project was created while learning Python.
+
+## Features
+- User input
+- Variables
+- Output formatting
+
+## Technologies Used
+- Python 3
+
+## Author
+Samuel Sekasi
